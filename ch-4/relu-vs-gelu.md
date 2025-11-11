@@ -10,9 +10,11 @@ Two popular ones are **ReLU** and **GELU**.
 ### 🔹 1. ReLU (Rectified Linear Unit)
 
 **Formula:**
+```python
 [
 ReLU(x) = \max(0, x)
 ]
+```
 
 **Meaning:**
 
